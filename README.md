@@ -1,4 +1,4 @@
-# 💖 Romantic Beating Heart Animation
+# Heart Animation
 
 A mesmerizing, lightweight HTML5 Canvas animation featuring a mathematically modeled pulsating heart, glowing synchronized initials, and drifting romantic particles. Built entirely with pure **Vanilla JavaScript, HTML5 Canvas, and CSS3**—zero external runtime frameworks or heavy dependencies required.
 
